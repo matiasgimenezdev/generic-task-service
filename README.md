@@ -1,7 +1,6 @@
 # Generic task executor
 
-![Arquitectura]()
-<img src="https://github.com/matiasgimenezdev/generic-task-service/assets/117539520/947636c3-d15b-418f-bb05-c3881151b0bd" alt="Arquitectura" width:"500px" height="500px"/>
+![Arquitectura](https://github.com/matiasgimenezdev/generic-task-service/assets/117539520/79fa4b52-a62e-48c7-9516-4c628c70a30c)
 
 ## Descripción
 Para iniciar los proyectos con spring utilizamos el [Spring Initialzr](https://start.spring.io/). Luego, para la comunicación del servidor con el demonio de Docker hicimos uso de la liberia [docker-java](https://github.com/docker-java/docker-java), ya que Docker no provee una libreria oficial para Java pero si recomienda algunas y esta es una de ellas.
