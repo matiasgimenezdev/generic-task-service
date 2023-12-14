@@ -1,10 +1,3 @@
-<style type="text/css">
-    img {
-        width: 550px;
-        height: 400px;
-    }
-</style>
-
 # Generic task executor
 
 ![Arquitectura](https://github.com/matiasgimenezdev/generic-task-service/assets/117539520/fddcdd47-a28e-4077-b282-6f134ce04cc4)
